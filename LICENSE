@@ -1,29 +1,32 @@
-Scratch Computing Alliance Off-Scratch Software License 1.1 (project delta version) (SCA-DT-OSSL-1.1)
+DT-OSSL (Full) 2.0
+Project Delta Off-Scratch Software License 2.0 (Full Version)
 
-Copyright 2024 Scratch Computing Alliance
 Copyright 2024 Max Software
+Copyright 2025 Max Software
 Copyright 2025 project delta
 
-IF YOU HAVE HAD TO PAY FOR THIS SOFTWARE, DEMAND A REFUND IMMEDIATELY. THIS IS SOFTWARE IS FREE AND OPEN-SOURCE.
+IF YOU HAVE PAID FOR THIS SOFTWARE IN ITS UNMODIFIED STATE, INDIVIDUALLY OR AS PART OF A BUNDLE WITH OTHER FREE SOFTWARE, REQUEST A REFUND IMMEDIATELY. THIS SOFTWARE IS FREE AND OPEN-SOURCE.
 
-BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE. THE LICENSOR GRANTS YOU THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND CONDITIONS.
+1. Definitions
+	“Original Work” refers to the software's original, unmodified state to which this license applies. "Creator(s)” denotes the developer(s), organization, company, association, and/or distributor responsible for creating this software, patch, app, distribution, or any other digital media. “Derivative Work” describes any modified form of this software, any software containing all or part of the original work, any new software intended to be compatible with or replace the original work's purpose, and/or any software inspired by the original work.
 
-The creator of this software hereby grants the user permission to use, modify, and/or redistribute (with credit) this software as you want, free of charge.
+2. Terms of Agreement
+	By executing any of the following actions with this software, you agree to and are bound by all terms of this license:
+	(1) Using the original work in any format (2) Downloading, saving, and/or utilizing the original work (3) Performing any of the above actions with any derivative works
 
-This software cannot be used for illegal or evasive purposes, and any punishment you recive for doing said illegal action is entirely your fault.
+3. License Grant
+	Subject to the terms and restrictions outlined in this license (See 4. Restrictions), the creator(s) grant you the following rights:
+	(1) to use the original work in any form, whether commercially or privately (2) to redistribute the original work in any form with appropriate credit (3) all rights granted without any compulsory fees
 
-Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+4. Restrictions
+	Redistribution and usage in source and binary forms, with or without modifications, are permitted if the following conditions are satisfied; Violating any of these terms will terminate the rights granted by this license (see 6. Termination):
+	(1) This software must not be used for illegal or evasive purposes, and you are entirely responsible for any consequences from such illegal actions. (1.5) Users must adhere to applicable data protection laws, including, but not limited to, the General Data Protection Regulation (GDPR) in the European Union. (2) Redistributions of source code must retain the copyright notice above, this list of conditions, and the following disclaimer. (3) Redistributions in binary form must include the copyright notice above, this list of conditions, and the following disclaimer in the documentation and/or other materials that accompany the distribution. (4) Neither the copyright holder’s name nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written consent. (5) This product cannot be sold unmodified as it is free software. (6) If you create a variation of this software, free or otherwise, you must specify the changes made and offer a link to the original software.
 
-Redistributions of source code must retain the above copyright notice, this list of conditions, and the following disclaimer.
+5. Limitation on Liability
+	THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT ANY WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. UNDER NO CIRCUMSTANCES SHALL THE CREATOR(S) BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITIES, WHETHER ARISING FROM CONTRACT, TORT, OR OTHERWISE, RELATED TO THE SOFTWARE OR THE USE OR OTHER DEALINGS WITH THE SOFTWARE.
 
-Redistributions in binary form must reproduce the above copyright notice, this list of conditions, and the following disclaimer in the documentation and/or other materials provided with the distribution.
+6. Termination
+	If any of these terms are breached, the creator(s) reserve the right to take necessary actions against violators, including but not limited to (1) reporting to relevant authorities, (2) pursuing legal action (3) revoking access to the original work and/or future updates.
 
-Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
-
-You are not allowed to sell this product unmodified, as it is free software.
-
-You are not allowed to sell any parts of this project unmodified etheir.
-
-If you do sell a variation of this software, you must state what you changed and link the original software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+7. Language
+	This agreement was initially drafted in English (US). In the event of any conflict between a translated version and the English version, the English version will control.
